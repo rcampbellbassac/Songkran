@@ -1,0 +1,32 @@
+{
+ "name": "Songkran",
+ "slug": "Songkran",
+ "native": "สงกรานต์",
+ "version": "0.100",
+ "cat": "fancy",
+ "title": "Inline display",
+ "insp": "Monoton, Bungee Inline",
+ "bases": {
+  "lao": "lao",
+  "thai": "thai",
+  "khmer": "khmer",
+  "latin": "latin"
+ },
+ "recipe": [
+  {
+   "op": "nib",
+   "shape": "round",
+   "w": 125
+  },
+  {
+   "op": "inline",
+   "inset": 16,
+   "line": 8
+  },
+  {
+   "op": "inline",
+   "inset": 34,
+   "line": 6
+  }
+ ]
+}
